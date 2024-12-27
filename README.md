@@ -1,7 +1,7 @@
 # This is TN :beer:
 
-![GitHub followers](https://img.shields.io/github/followers/nakouchdoge?style=for-the-badge&logo=github&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/nakouchdoge?style=for-the-badge&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/kouchpouch?style=for-the-badge&logo=github&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/kouchpouch?style=for-the-badge&logo=github)
 
 ![img](./737.jpeg)
 
