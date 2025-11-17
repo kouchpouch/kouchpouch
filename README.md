@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/kouchpouch?style=for-the-badge&logo=github&label=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/kouchpouch?style=for-the-badge&logo=github)
 
-![img](./737.jpeg)
+![img](./vimlogo.svg.png)
 
 - 🔭 I’m currently working on: not being bad at programming.
 - 💬 Ask me about drinking sparkling water!
