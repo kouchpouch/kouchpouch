@@ -1,6 +1,6 @@
 # This is TN :beer:
 
-![GitHub followers](https://img.shields.io/github/followers/:kouchpouch)
+![GitHub followers](https://img.shields.io/github/followers/kouchpouch)
 
 ![img](./Vimlogo.png)
 
