@@ -1,4 +1,4 @@
-# This is TN :beer:
+# This is TN
 
 ![GitHub followers](https://img.shields.io/github/followers/kouchpouch)
 
