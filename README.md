@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/kouchpouch)
 
-![img](./Vimlogo.png)
+![img](./vimlogo.gif)
 
 - 🔭 I’m currently working on: not being bad at programming.
 - 💬 Ask me about drinking sparkling water!
