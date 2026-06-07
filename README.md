@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I can fly a jet but I sure can't program one to fly.
 - ❌ No vibe code
 - C / Python / Javascript / PHP / Shell
-- I use <insert whatever>, btw.
+- I use \<insert whatever\>, btw.
